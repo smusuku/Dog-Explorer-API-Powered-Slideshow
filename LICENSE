@@ -19,3 +19,9 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+
+This project is a derivative work based on materials from the tutorial
+"Dogs, JavaScript & An API 🐶 Fetch, Promises & Async Await" by Brad Schiff.
+The original tutorial content is © Brad Schiff and used here strictly for
+educational purposes. No affiliation or endorsement is implied.
